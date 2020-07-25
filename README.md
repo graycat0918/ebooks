@@ -31,7 +31,7 @@
 │   └── Java_in_a_Nutshell_6th_Edition_en
 └── linux
     ├── Linux_101_Hacks_en
-    ├── Linux_Command_and_Shell_Script_Programing_3rd
+    ├── Linux_Command_and_Shell_Script_Programing_3rd_Edition
     └── Linux_Command
 ```
 
